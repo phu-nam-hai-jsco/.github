@@ -6,7 +6,7 @@ Công ty tư vấn quản trị – kế toán – thuế – đầu tư, đặt
 
 ## 🏢 Giới thiệu
 
-Phú Nam Hải giúp doanh nghiệp an tâm trong công tác quản lý công ty và các quy trình nghiệp vụ. Đội ngũ chuyên gia cao cấp giàu kinh nghiệm trong lĩnh vực **quản lý – kế toán – thuế – tài chính**, cùng đội ngũ nhân sự nhiệt tình, trách nhiệm, am_hiểu làm việc nhóm và luôn đặt khách hàng làm trọng tâm.
+Phú Nam Hải giúp doanh nghiệp an tâm trong công tác quản lý công ty và các quy trình nghiệp vụ. Đội ngũ chuyên gia cao cấp giàu kinh nghiệm trong lĩnh vực **quản lý – kế toán – thuế – tài chính**, cùng đội ngũ nhân sự nhiệt tình, trách nhiệm, am hiểu làm việc nhóm và luôn đặt khách hàng làm trọng tâm.
 
 Chúng tôi tư vấn giải pháp **thiết kế riêng (customized & tailored)** phù hợp với quy trình nghiệp vụ cụ thể của từng doanh nghiệp — từ kê khai thuế, kế toán đến đầu tư — để đạt hiệu quả tốt nhất.
 
