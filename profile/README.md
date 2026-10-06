@@ -1,12 +1,33 @@
-## Hi there 👋
+# Phu Nam Hai JSCo. — Công ty Cổ phần Phú Nam Hải
 
-<!--
+> _"Responsibility create The Trust."_ — Trách nhiệm tạo dựng niềm tin.
 
-**Here are some ideas to get you started:**
+Công ty tư vấn quản trị – kế toán – thuế – đầu tư, đặt tại TP. Hồ Chí Minh, Việt Nam.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🏢 Giới thiệu
+
+Phú Nam Hải giúp doanh nghiệp an tâm trong công tác quản lý công ty và các quy trình nghiệp vụ. Đội ngũ chuyên gia cao cấp giàu kinh nghiệm trong lĩnh vực **quản lý – kế toán – thuế – tài chính**, cùng đội ngũ nhân sự nhiệt tình, trách nhiệm, am_hiểu làm việc nhóm và luôn đặt khách hàng làm trọng tâm.
+
+Chúng tôi tư vấn giải pháp **thiết kế riêng (customized & tailored)** phù hợp với quy trình nghiệp vụ cụ thể của từng doanh nghiệp — từ kê khai thuế, kế toán đến đầu tư — để đạt hiệu quả tốt nhất.
+
+## 🛠 Dịch vụ
+
+- **Dịch vụ kế toán (Accounting Services)** — Ghi nhận nghiệp vụ kinh tế phát sinh của khách hàng, lập báo cáo kế toán và báo cáo tài chính phù hợp với chuẩn mực kế toán và quy định pháp luật Việt Nam.
+- **Dịch vụ khai thuế (Tax Declaration Services)** — Khai báo các loại thuế phát sinh như thuế giá trị gia tăng (GTGT), thuế thu nhập doanh nghiệp (TNDN)...
+- **Dịch vụ lập dự án (Project Planning Services)** — Lắng nghe cơ sở của dự án đầu tư từ khách hàng, nghiên cứu và biên soạn hồ sơ dự án.
+- **Tư vấn (Consulting)** — Tư vấn thuế, kế toán, đầu tư và quy trình quản lý doanh nghiệp theo nhu cầu riêng.
+
+## 💼 Đầu tư
+
+Chúng tôi đầu tư vào các doanh nghiệp thành viên — theo đề xuất của khách hàng hoặc định hướng của Hội đồng thành viên — trên cơ sở nghiên cứu kỹ hiệu quả mục tiêu kinh doanh.
+
+## 📞 Liên hệ
+
+| | |
+|---|---|
+| 🌐 Website | [www.phunamhai.com](https://phunamhai.com) |
+| ✉️ Email | [info@phunamhai.com](mailto:info@phunamhai.com) |
+| ☎️ Điện thoại | (+84-8) 3932 6401 · 3932 6473 |
+| 📠 Fax | (+84-8) 3932 6341 · 3932 6403 |
+| 📍 Địa chỉ | 108/44A1 Trần Quang Diệu, Phường 14, Quận 3, TP. Hồ Chí Minh, Việt Nam |
+| 📋 GPKD | 0310 294 670 |
