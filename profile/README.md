@@ -17,6 +17,15 @@ Chúng tôi tư vấn giải pháp **thiết kế riêng (customized & tailored)
 - **Dịch vụ lập dự án (Project Planning Services)** — Lắng nghe cơ sở của dự án đầu tư từ khách hàng, nghiên cứu và biên soạn hồ sơ dự án.
 - **Tư vấn (Consulting)** — Tư vấn thuế, kế toán, đầu tư và quy trình quản lý doanh nghiệp theo nhu cầu riêng.
 
+## 📚 Kiến thức & Đào tạo — quantritaichinh.vn
+
+[Quản Trị Tài Chính](https://quantritaichinh.vn) là nền tảng kiến thức tài chính – kế toán – thuế do Phú Nam Hải vận hành:
+
+- **Tin tức & phân tích**: quản trị tài chính, chiến lược tài chính, chính sách thuế, BHXH – Lao động.
+- **Tài liệu – giáo trình**: quản trị tài chính, kế toán tài chính, kế toán quản trị, thuế, tổ chức bộ máy kế toán.
+- **Văn bản pháp quy**: thuế (GTGT, TNDN, TNCN...), kế toán, tài chính – chứng khoán – ngoại tệ, tổ chức doanh nghiệp.
+- **Học kế toán trực tuyến**, đề tài – khóa luận tốt nghiệp, thuật ngữ kế toán – thuế.
+
 ## 💼 Đầu tư
 
 Chúng tôi đầu tư vào các doanh nghiệp thành viên — theo đề xuất của khách hàng hoặc định hướng của Hội đồng thành viên — trên cơ sở nghiên cứu kỹ hiệu quả mục tiêu kinh doanh.
@@ -25,9 +34,11 @@ Chúng tôi đầu tư vào các doanh nghiệp thành viên — theo đề xu�
 
 | | |
 |---|---|
-| 🌐 Website | [www.phunamhai.com](https://phunamhai.com) |
-| ✉️ Email | [info@phunamhai.com](mailto:info@phunamhai.com) |
-| ☎️ Điện thoại | (+84-8) 3932 6401 · 3932 6473 |
-| 📠 Fax | (+84-8) 3932 6341 · 3932 6403 |
+| 🌐 Website chính | [www.phunamhai.com](https://phunamhai.com) |
+| 📚 Cổng kiến thức | [quantritaichinh.vn](https://quantritaichinh.vn) |
+| ✉️ Email | [info@phunamhai.com](mailto:info@phunamhai.com) · [info@quantritaichinh.vn](mailto:info@quantritaichinh.vn) |
+| ☎️ Dịch vụ & Tư vấn Thuế – Kế toán | 028.3932 6401 · 028.3932 6473 |
+| ☎️ Tư vấn Quản lý & Nhà thầu | 028.3932 6403 · 0945 168 743 |
+| ☎️ Tư vấn Tổ chức & Nhân sự | 028.3932 6341 · 028.3890 9670 |
 | 📍 Địa chỉ | 108/44A1 Trần Quang Diệu, Phường 14, Quận 3, TP. Hồ Chí Minh, Việt Nam |
 | 📋 GPKD | 0310 294 670 |
